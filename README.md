@@ -5,5 +5,5 @@
 # 1:Extract Zip and run ps4.npm start.bat 
 # 2:Go on your ps4 browser and  http://your-ip-pc:5306/index.html
 
-![Alt text](https://pbs.twimg.com/media/DwfG2qkWkAAF0nV.jpg?raw=true "Title")
+![Alt text](https://github.com/ciss84/5.50-dumper/blob/master/DwfG2qkWkAAF0nV.jpg?raw=true "Title")
 
